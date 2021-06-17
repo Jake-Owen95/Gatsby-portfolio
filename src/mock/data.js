@@ -47,8 +47,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'oldPortfolio.png',
-    title: 'Old Portfolio Site',
-    info: 'This was my last portfolio site I built using HTML, CSS and JavaScript. I did not design it to be mobile friendly and struggled to make it responsive. So I decided I would start this new portfolio with mobile first in mind. ',
+    title: 'Personal Web Site',
+    info: 'This is my personal website built using HTML, CSS and JavaScript. I did not design it to be mobile friendly and struggled to make it responsive. In future I would always be sure to start projects with a mobile friendly approach. ',
     info2: '',
     url: 'https://jake-owen95.github.io/Portfolio/index.html',
     repo: 'https://github.com/Jake-Owen95/Portfolio', // if no repo, the button will not show up
