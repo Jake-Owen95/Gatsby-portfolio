@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Project Management System',
     info: 'A system designed to automate some of the data storing, retrieving and editing for company projects. I built this in Python and then in Java using a mySql database.',
     info2: '',
-    url: '',
+    url: 'https://github.com/Jake-Owen95/ProjectManagementSystem',
     repo: 'https://github.com/Jake-Owen95/ProjectManagementSystem', // if no repo, the button will not show up
   },
   {
