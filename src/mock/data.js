@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'padang.jpg',
+  img: 'profile.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -54,6 +54,23 @@ export const projectsData = [
     repo: 'https://github.com/Jake-Owen95/Portfolio', // if no repo, the button will not show up
   },
 ];
+
+// SKILLS DATA
+export const skillsData = {
+  img: 'node.png',
+  img1: 'python.png',
+  img2: 'mySql.png',
+  img3: 'html.png',
+  img4: 'contentful.png',
+  img5: 'javascript.png',
+  img6: 'rails.png',
+  img7: 'gatsby.png',
+  img8: 'java.png',
+  img9: 'react.png',
+  img10: 'google-analytics.png',
+  img11: 'git.png',
+  img12: 'netlify.png',
+};
 
 // CONTACT DATA
 export const contactData = {
