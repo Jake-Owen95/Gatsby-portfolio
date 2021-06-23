@@ -30,8 +30,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'notubereats.png',
     title: 'Not Uber Eats',
-    info: '',
-    info2: '',
+    info: 'A list of local restaurants in South Africa that offer their own delivery services or pick up. Support local instead of letting delivery apps take 30% of every order!',
+    info2: 'Tech stack: React, Gatbsyjs, Netfliy, Contentful CMS, Google Analytics, Git.',
     url: 'https://www.not-ubereats.co.za/',
     repo: 'https://github.com/Jake-Owen95/not-ubereats', // if no repo, the button will not show up
   },
@@ -39,8 +39,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'PMS.jpg',
     title: 'Project Management System',
-    info: 'A system designed to automate some of the data storing, retrieving and editing for company projects. I built this in Python and then in Java using a mySql database. This only has a backend. I am busy working on the frontend.',
-    info2: '',
+    info: 'A system designed to automate some of the data storing, retrieving and editing for company projects. Built all the crud operations as well as user authentication with admin/user login',
+    info2: 'Tech Stack: Python moved to Java, mySql, Git.',
     url: 'https://github.com/Jake-Owen95/ProjectManagementSystem',
     repo: 'https://github.com/Jake-Owen95/ProjectManagementSystem', // if no repo, the button will not show up
   },
@@ -48,8 +48,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'oldPortfolio.png',
     title: 'Personal Web Site',
-    info: 'This is my personal website built using HTML, CSS and JavaScript. I did not design it to be mobile friendly and struggled to make it responsive. In future I would always be sure to start projects with a mobile first approach. ',
-    info2: '',
+    info: 'This is my original portfolio site. I did not design it to be mobile friendly and struggled to make it responsive as a result. A good learning process! In future I would always be sure to start projects with a mobile first approach. ',
+    info2: 'Tech Stack: HTML, CSS, Javascript, Git.',
     url: 'https://jake-owen95.github.io/Portfolio/index.html',
     repo: 'https://github.com/Jake-Owen95/Portfolio', // if no repo, the button will not show up
   },

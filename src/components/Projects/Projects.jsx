@@ -43,10 +43,7 @@ const Projects = () => {
                     <div className="project-wrapper__text">
                       <h3 className="project-wrapper__text-title">{title || 'Not-UberEats'}</h3>
                       <div>
-                        <p>
-                          {info ||
-                            'A list of local restaurants in South Africa that offer their own delivery services or pick up. Support local instead of letting delivery apps take 30% of every order! This site was built using Gatsbyjs, React, and Contentful CMS which is a low-code platform. Hosting is done on Netlify.'}
-                        </p>
+                        <p>{info || ''}</p>
                         <p className="mb-4">{info2 || ''}</p>
                       </div>
                       <a

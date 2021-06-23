@@ -39,15 +39,15 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'I studied at Hyperion Dev and completed a 6 month course in software engineering. I then worked for 6 months as an intern for a startup called Sapphire Gem Tech who specialize in creating web applications. I spent lots of my time learning. Using that knowledge I built features for the companies portfolio websites. We worked mostly in Ruby on Rails.'}
+                    'I am interested in sustainabilty and the enviromental crisis we face. Technology is an incredible tool and has the ability to help tackle many of the worlds complex problems. This is what got me interested in programming and this is the sort of thing I would like to use my skill set for.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'As a software engineer I think my skill set is more on the back end. But I have come to find I really enjoy working on the front end and learning about design priniciples. I love the problem solving nature of programming and find the rewards of solving a problem incredibly satisfying.'}
+                    'I enjoy working across the full stack and have recently been focusing on web development. I find the problem solving nature of programming highly rewarding and embrace the unique challenges each project brings.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree ||
-                    'My most recent project has been the not-uberEats restuarant directory that I have brought to South Africa. This website lists all restaurants in cape town with independent delivery, saving restuarants and users money with the exlcusion of extra fees. I will be adding more areas to the website as it grows in popularity.'}
+                    'I have a diploma in software engineering from HyperionDev (backed by tech giants such as Google and Facebook). The course focused heavily on backend development but since graduating I have spent the majority of my time working on the frontend. This has given me a good grasp on the full stack process.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
