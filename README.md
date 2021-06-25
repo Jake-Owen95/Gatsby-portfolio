@@ -24,9 +24,17 @@ gatsby-cli@2.8.22 or higher
 
 ---
 
-Run command gatsby develop
+1.) Ensure all technologies used are installed on PC
 
-Server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
+2.) Create project folder and navigate there in VS code
+
+3.) Run command: npm install -g gatsby-cli
+
+4.) Create gatsby site from gatsby starter or use command: gatsby new site name
+
+Run command: gatsby develop
+
+Development Server has started at `http://localhost:8000/`
 
 ## Technologies used 🛠️
 
