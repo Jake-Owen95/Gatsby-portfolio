@@ -37,7 +37,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'PMS.jpg',
+    img: 'PMS.png',
     title: 'Project Management System',
     info: 'A system designed to automate some of the data storing, retrieving and editing for company projects. Built all the crud operations as well as user authentication with admin/user login',
     info2: 'Tech Stack: Python moved to Java, mySql, Git.',
