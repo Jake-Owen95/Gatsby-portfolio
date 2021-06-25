@@ -36,6 +36,18 @@ Run command: gatsby develop
 
 Development Server has started at `http://localhost:8000/`
 
+5.) Create gihub Repo and change remote origin to newly created repo using commands:
+git remote add origin https://github.com/Jake-Owen95/Gatsby-portfolio.git
+git branch -M main
+git push -u origin main
+
+6.) Add all files, commit and push to repo with commands:
+git add .
+git commit -m "message"
+git push
+
+7.) Host on Netlify
+
 ## Technologies used 🛠️
 
 - [Gatsby](https://www.gatsbyjs.org/) - Static Site Generator
