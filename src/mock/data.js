@@ -31,7 +31,8 @@ export const projectsData = [
     img: 'notubereats.png',
     title: 'Not Uber Eats',
     info: 'A list of local restaurants in South Africa that offer their own delivery services or pick up. Support local instead of letting delivery apps take 30% of every order!',
-    info2: 'Tech stack: React, Gatbsyjs, Netfliy, Contentful CMS, Google Analytics, Git.',
+    info2:
+      'Tech stack: React, Gatbsyjs, GraphQl, Bootstrap, Sass, Netfliy, Contentful CMS, Google Analytics, Git.',
     url: 'https://www.not-ubereats.co.za/',
     repo: 'https://github.com/Jake-Owen95/not-ubereats', // if no repo, the button will not show up
   },
