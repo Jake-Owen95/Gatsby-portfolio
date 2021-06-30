@@ -47,12 +47,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'oldPortfolio.png',
-    title: 'Personal Web Site',
-    info: 'This is my original portfolio site. I did not design it to be mobile friendly and struggled to make it responsive as a result. A good learning process! In future I would always be sure to start projects with a mobile first approach. ',
+    img: 'weatherapp.png',
+    title: 'Weather App',
+    info: 'A weather app I built using the open weather app api. This application pulls data from the api and displays it in the UI.',
     info2: 'Tech Stack: HTML, CSS, Javascript, Git.',
-    url: 'https://jake-owen95.github.io/Portfolio/index.html',
-    repo: 'https://github.com/Jake-Owen95/Portfolio', // if no repo, the button will not show up
+    url: 'https://jake-owen95.github.io/weather-app/',
+    repo: 'https://github.com/Jake-Owen95/weather-app', // if no repo, the button will not show up
   },
 ];
 
