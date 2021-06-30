@@ -50,7 +50,7 @@ export const projectsData = [
     img: 'weatherapp.png',
     title: 'Weather App',
     info: 'A weather app I built using the open weather app api. This application pulls data from the api and displays it in the UI.',
-    info2: 'Tech Stack: HTML, CSS, Javascript, Git.',
+    info2: 'Tech Stack: HTML, CSS, Javascript, bootstrap, Git.',
     url: 'https://jake-owen95.github.io/weather-app/',
     repo: 'https://github.com/Jake-Owen95/weather-app', // if no repo, the button will not show up
   },
