@@ -29,7 +29,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'notubereats.png',
-    title: 'Not Uber Eats || FullStack',
+    title: 'Not Uber Eats || Full Stack',
     info: 'A list of local restaurants in South Africa that offer their own delivery services or pick up. Support local instead of letting delivery apps take 30% of every order!',
     info2:
       'Tech stack: React, Gatbsyjs, GraphQl, Bootstrap, Sass, Netfliy, Contentful CMS, Google Analytics, Git.',
@@ -39,7 +39,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'PMS.png',
-    title: 'ProjectMS || BackEnd',
+    title: 'ProjectMS || Back End',
     info: 'A system designed to automate some of the data storing, retrieving and editing for company projects. Built all the crud operations as well as user authentication with admin/user login',
     info2: 'Tech Stack: Python moved to Java, mySql, Git.',
     url: 'https://github.com/Jake-Owen95/ProjectManagementSystem',
@@ -48,7 +48,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'weatherapp.png',
-    title: 'Weather App || FrontEnd',
+    title: 'Weather App || Front End',
     info: 'A weather app I built using the open weather app api. This application pulls data from the api and displays it in the UI.',
     info2: 'Tech Stack: HTML, CSS, Javascript, bootstrap, Git.',
     url: 'https://jake-owen95.github.io/weather-app/',
