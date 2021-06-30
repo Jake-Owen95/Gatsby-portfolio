@@ -39,7 +39,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'PMS.png',
-    title: 'Project Management System || BackEnd',
+    title: 'ProjectMS || BackEnd',
     info: 'A system designed to automate some of the data storing, retrieving and editing for company projects. Built all the crud operations as well as user authentication with admin/user login',
     info2: 'Tech Stack: Python moved to Java, mySql, Git.',
     url: 'https://github.com/Jake-Owen95/ProjectManagementSystem',
