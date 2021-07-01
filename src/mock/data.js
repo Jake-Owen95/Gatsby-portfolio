@@ -40,10 +40,10 @@ export const projectsData = [
     id: nanoid(),
     img: 'PMS.png',
     title: 'ProjectMS || Back End',
-    info: 'A system designed to automate some of the data storing, retrieving and editing for company projects. Built all the crud operations as well as user authentication with admin/user login',
+    info: 'A project management system designed to automate some of the data storing, retrieving and editing for company projects. Built all the crud operations as well as user authentication with admin/user login',
     info2: 'Tech Stack: Python moved to Java, mySql, Git.',
     url: 'https://github.com/Jake-Owen95/ProjectManagementSystem',
-    repo: 'https://github.com/Jake-Owen95/ProjectManagementSystem', // if no repo, the button will not show up
+    repo: 'https://github.com/Jake-Owen95/ProjectManagementSystem',
   },
   {
     id: nanoid(),
@@ -52,7 +52,7 @@ export const projectsData = [
     info: 'A weather app I built using the open weather app api. This application pulls data from the api and displays it in the UI.',
     info2: 'Tech Stack: HTML, CSS, Javascript, bootstrap, Git.',
     url: 'https://jake-owen95.github.io/weather-app/',
-    repo: 'https://github.com/Jake-Owen95/weather-app', // if no repo, the button will not show up
+    repo: 'https://github.com/Jake-Owen95/weather-app',
   },
 ];
 
@@ -98,5 +98,5 @@ export const footerData = {
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // enable/disable GitHub stars/fork buttons
 };
