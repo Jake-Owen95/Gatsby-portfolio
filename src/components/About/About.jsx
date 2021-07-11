@@ -39,15 +39,15 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    "I am interested in sustainabilty and the enviromental crisis we face. Technology is an incredible tool and has the ability to help tackle many of the world's complex problems. This is what got me interested in programming and this is the sort of thing I would like to use my skill set for."}
+                    "I am interested in sustainabilty and the enviromental crisis we face. Technology is an incredible tool and has the ability to help tackle many of the world's complex problems. This is what got me interested in programming and is the sort of thing I would like to use my skill set for. I want to make a difference."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'I enjoy working across the full stack and have recently been focusing on web development. I find the problem solving nature of programming highly rewarding and embrace the unique challenges each project brings.'}
+                    'I enjoy working across the full stack and have recently been focusing on web development. Lately I have been using lots of React and Gatsby and these are the techonologies I would like to keep working with. Gatsby is fast becoming one of my favourite web dev tools.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree ||
-                    'I have a diploma in software engineering from HyperionDev (backed by tech giants such as Google and Facebook). The course focused heavily on backend development but since graduating I have spent the majority of my time working on the frontend. This has given me a good grasp on the full stack process.'}
+                    'I have a diploma in software engineering from HyperionDev (backed by tech giants such as Google and Facebook). The course focused heavily on backend development in Python and Java. However, since graduating I have spent the majority of my time working on the frontend. This has given me a good grasp on the full stack process.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
