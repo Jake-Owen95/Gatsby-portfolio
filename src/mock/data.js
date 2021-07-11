@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'notubereats.png',
     title: 'Not Uber Eats || Full Stack',
-    info: 'A list of local restaurants in South Africa that offer their own delivery services or pick up. Support local instead of letting delivery apps take 30% of every order! Makes use of a low-code content managment system called Contentful.',
+    info: 'A list of local restaurants in South Africa that offer their own delivery services or pick up. Support local instead of letting delivery apps take 30% of every order! Makes use of a low-code content managment system called Contentful. Open Source.',
     info2:
       'Tech stack: React, Gatbsyjs, GraphQl, Bootstrap, Sass, Netfliy, Contentful CMS, Google Analytics, Git.',
     url: 'https://www.not-ubereats.co.za/',
