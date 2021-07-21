@@ -68,7 +68,7 @@ export const skillsData = {
   img7: 'gatsby.png',
   img8: 'java.png',
   img9: 'react.png',
-  img10: 'ganalytics.png',
+  // img10: 'ganalytics.png',
   img11: 'git.png',
   img12: 'netlify.png',
 };

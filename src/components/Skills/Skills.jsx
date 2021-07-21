@@ -7,7 +7,7 @@ import PortfolioContext from '../../context/context';
 
 const Skills = () => {
   const { skills } = useContext(PortfolioContext);
-  const { img, img1, img2, img3, img4, img5, img6, img7, img8, img9, img10, img11, img12 } = skills;
+  const { img, img1, img2, img3, img4, img5, img6, img7, img8, img9, img11, img12 } = skills;
 
   const [isDesktop, setIsDesktop] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
@@ -97,13 +97,13 @@ const Skills = () => {
               </div>
             </Fade>
           </Col>
-          <Col md={6} sm={12}>
+          {/* <Col md={6} sm={12}>
             <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
               <div className="skills-wrapper__image">
                 <SkillsImg alt="skills picture" filename={img10} />
               </div>
             </Fade>
-          </Col>
+          </Col> */}
           <Col md={6} sm={12}>
             <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
               <div className="skills-wrapper__image">
