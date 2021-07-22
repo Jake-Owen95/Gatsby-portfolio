@@ -97,13 +97,6 @@ const Skills = () => {
               </div>
             </Fade>
           </Col>
-          {/* <Col md={6} sm={12}>
-            <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
-              <div className="skills-wrapper__image">
-                <SkillsImg alt="skills picture" filename={img10} />
-              </div>
-            </Fade>
-          </Col> */}
           <Col md={6} sm={12}>
             <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">
               <div className="skills-wrapper__image">

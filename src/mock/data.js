@@ -67,7 +67,7 @@ export const projectsData = [
 
 // SKILLS DATA
 export const skillsData = {
-  img: 'node.png',
+  img: 'npm.png',
   img1: 'python.png',
   img2: 'mySql.png',
   img3: 'html.png',
