@@ -43,7 +43,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'I enjoy working across the full stack and have recently been focusing on web development. Lately I have been using lots of React and Gatsby and these are the techonologies I would like to keep working with. Gatsby is fast becoming one of my favourite web dev tools.'}
+                    'I enjoy working across the full stack and have recently been focusing on web development. Lately I have been using lots of React and Gatsby and these are the techonologies I would like to keep learning about. This portfolio was built with Gatsby, hosted on netlify with Continuous integration and Deployment.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree ||
