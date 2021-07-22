@@ -60,7 +60,7 @@ export const projectsData = [
     title: 'Machine Learning || Back End',
     info: 'Various machine learning projects using polynomial regression, scatter plots and the k means algorithm. Analyzing the popular iris data set as well as creating scatter plots on diabetes.',
     info2: 'Tech Stack: Python, numpy, sklearn, matplotlib.',
-    url: '',
+    url: 'https://github.com/Jake-Owen95/MachineLearningProjects',
     repo: 'https://github.com/Jake-Owen95/MachineLearningProjects',
   },
 ];
