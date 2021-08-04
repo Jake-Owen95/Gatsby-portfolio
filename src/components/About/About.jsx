@@ -47,7 +47,7 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree ||
-                    'I have a diploma in software engineering from HyperionDev (backed by tech giants such as Google and Facebook). The course focused heavily on backend development in Python and Java. However, since graduating I have spent the majority of my time working on the frontend with javascript and libraries like react. This has given me a good grasp on the full stack process and has challneged me to grow.'}
+                    'I have a diploma in software engineering from HyperionDev (backed by tech giants such as Google and Facebook). The course focused heavily on backend development in Python and Java. However, since graduating I have spent the majority of my time working on the frontend with javascript and libraries like react. This has given me a good grasp on the full stack process and has challenged me to grow as a developer.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
