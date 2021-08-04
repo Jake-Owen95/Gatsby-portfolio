@@ -43,11 +43,11 @@ const About = () => {
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'I enjoy working across the full stack and have recently been focusing on web development. Lately I have been using lots of React and Gatsby and these are techonologies I would like to keep learning about. This portfolio was built with Gatsby, hosted on netlify with Continuous integration and Deployment.'}
+                    'I enjoy working across the full stack and have recently been focusing on web development. Lately I have been using lots of React and Gatsby and these are techonologies I would like to keep learning about. This portfolio was built with Gatsb and is hosted on netlify using continuous integration and deployment.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree ||
-                    'I have a diploma in software engineering from HyperionDev (backed by tech giants such as Google and Facebook). The course focused heavily on backend development in Python and Java. However, since graduating I have spent the majority of my time working on the frontend. This has given me a good grasp on the full stack process.'}
+                    'I have a diploma in software engineering from HyperionDev (backed by tech giants such as Google and Facebook). The course focused heavily on backend development in Python and Java. However, since graduating I have spent the majority of my time working on the frontend with javascript and libraries like react. This has given me a good grasp on the full stack process and has challneged me to grow.'}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
