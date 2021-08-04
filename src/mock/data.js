@@ -49,7 +49,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'weatherapp.png',
     title: 'Weather App || Front End',
-    info: 'A weather app I built using the open weather app api. This application pulls data from the api and displays it in the UI showing information like temperature, cloud cover and providing a representative image.',
+    info: 'A weather app I built using the open weather app api. This application pulls data from the api based on users location input. It then displays the weather for that area showing information like temperature, cloud cover and even providing a unique and representative image for those conditions.',
     info2: 'Tech Stack: HTML, CSS, Javascript, bootstrap, Git.',
     url: 'https://jake-owen95.github.io/weather-app/',
     repo: 'https://github.com/Jake-Owen95/weather-app',
